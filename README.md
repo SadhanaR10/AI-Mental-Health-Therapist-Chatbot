@@ -3,17 +3,11 @@ This project aimed to develop an AI-driven virtual therapist chatbot that provid
 The project addresses the global shortage of mental health services by offering an intelligent, empathetic, and scalable digital solution.
 
 **Programming Language:** Python 3.10
-
 **Framework:** RASA 3.0
-
 **Frontend:** React JS with Tailwind CSS
-
 **Backend:** Python (RASA action server)
-
 **Tools:** IntelliJ IDEA, Pandas, Materialize CSS
-
 **OS:** Windows 10
-
 **Datasets:** Kaggle and Reddit (for mental health-related conversations)
 
 
